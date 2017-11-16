@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@shoutem/ui": "^0.22.0-alpha.2",
+    "babel-plugin-transform-react-jsx-source": "^6.22.0",
     "html-webpack-plugin": "^2.30.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
@@ -30,6 +31,9 @@
     "react-router-dom": "4.2.2",
     "react-router-native": "4.2.0",
     "redux": "3.7.2",
+    "redux-reducers-injector": "^0.1.1",
+    "redux-saga": "^0.16.0",
+    "redux-sagas-injector": "^0.2.2",
     "redux-thunk": "2.2.0"
   },
   "devDependencies": {
