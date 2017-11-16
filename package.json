@@ -10,7 +10,11 @@
     "test:web": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "electron": "react-scripts start & electron .",
-    "test-web": "react-scripts test --env=jsdom"
+    "test-web": "react-scripts test --env=jsdom",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android",
+    "windows": "react-native run-windows",
+    "macos": "react-native run-macos"
   },
   "dependencies": {
     "@shoutem/ui": "^0.22.0-alpha.2",
