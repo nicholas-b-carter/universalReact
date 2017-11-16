@@ -4,4 +4,10 @@ import {
 } from 'react-native';
 import App from './templates/re-start/App'
 
-AppRegistry.registerComponent('everywhere', () => App);
+
+export default class everywhere extends Component {
+    render() {
+        return  <App/>;
+    }
+}
+AppRegistry.registerComponent('everywhere', () => everywhere);

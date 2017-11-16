@@ -8,15 +8,15 @@ const Route = Routing.Route;
 
 
 class App extends React.Component {
-    render() {
-        return (
-            <Provider store={store}>
-                <Router>
-                    <Route path='/' component={TopLevelComponent}/>
-                </Router>
-            </Provider>
-        );
-    }
+  render() {
+    return (
+      <Provider store={store}>
+        <Router>
+          <Route path='/' component={TopLevelComponent}/>
+        </Router>
+      </Provider>
+    );
+  }
 }
 
 export default App;
