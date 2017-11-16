@@ -1,0 +1,30 @@
+{
+  "name": "universal-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-b-carter/universalReact.git"
+  },
+  "keywords": [
+    "react",
+    "universal",
+    "react-native",
+    "react-native-web",
+    "pwa",
+    "react-native-macos",
+    "react-native-windows",
+    "react-native-electron",
+    "webpack"
+  ],
+  "author": "Nick Carter <nicholas.b.carter@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholas-b-carter/universalReact/issues"
+  },
+  "homepage": "https://github.com/nicholas-b-carter/universalReact#readme"
+}
