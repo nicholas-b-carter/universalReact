@@ -16,6 +16,8 @@
     "react-dom": "16.0.0",
     "react-native": "0.50.3",
     "react-native-web": "0.1.13",
+    "react-native-windows": "^0.50.0-rc.2",
+    "react-native-macos": "^0.16.0",
     "react-redux": "5.0.6",
     "react-router": "4.2.0",
     "react-router-dom": "4.2.2",
@@ -71,5 +73,16 @@
   "jest": {
     "preset": "react-native"
   },
-  "main": "index.electron.js"
+  "main": "index.electron.js",
+  "description": "v2 oracle poc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-b-carter/universalReact.git"
+  },
+  "author": "Nick Carter <nicholas.b.carter@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholas-b-carter/universalReact/issues"
+  },
+  "homepage": "https://github.com/nicholas-b-carter/universalReact#readme"
 }
